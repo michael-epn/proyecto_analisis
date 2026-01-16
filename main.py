@@ -46,4 +46,34 @@ print("Proveedor = ",dataset["proveedor"].str.contains(" ",regex = False).sum())
 print("Precio de compra = ",dataset["precio_compra"].str.contains(" ",regex = False).sum())
 print("Precio de venta al publico = ",dataset["precio_venta_publico"].str.contains(" ",regex = False).sum())
 
+######################################################################################################################################
+dataset_limpio = dataset.copy()
+print("//////////// LIMPIANDO EL DATASET ///////////////////")
+print("1. Limpiar columnas numéricas...")
+columnas_numericas = ["precio_compra", "precio_venta_publico", "stock"]
 
+for col in columnas_numericas:
+    dataset_limpio[col] = pd.to_numeric(dataset_limpio[col], errors="coerce")
+
+print("2. Rellenar valores nulos con la mefianam y las tipo string con desconocido...")
+for col in columnas_numericas:
+    dataset_limpio[col].fillna(dataset_limpio[col].median(), inplace=True)
+
+columnas_texto = ["nombre", "categoria", "proveedor"]
+
+for col in columnas_texto:
+    dataset_limpio[col].fillna("Desconocido", inplace=True)
+
+print("3. Limpiar espacios y estandarizar texto...")
+for col in columnas_texto:
+    dataset_limpio[col] = dataset_limpio[col].str.strip()
+
+print("4. Validar dominio de stock...")
+dataset_limpio = dataset_limpio[dataset_limpio["stock"] >= 0]
+
+print("5. Revisar tipos de datos finales...")
+print(dataset_limpio.info())
+
+print("6. Verificar que ya no hay datos sucios...")
+print(dataset_limpio.isnull().sum())
+########################################################################################################################################
