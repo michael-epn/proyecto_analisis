@@ -1,0 +1,100 @@
+id_insumo,nombre,precio_compra,categoria,stock,proveedor
+1,Margarina Industrial,2.59,Grasas,268,La Fabril
+2,Esencia Vainilla (Galón),12.23,Esencias,326,DelyClar
+3,Levadura Fresca (500g),2.18,error,174,Levapan
+4,Esencia Vainilla (Galón),12.1,Esencias,54,DelyClar
+5,Quintal Harina Trigo,N/A,Materia Prima,336,Santa Lucia
+6,Levadura Fresca (500g),2.24,Materia Prima,43,Levapan
+7,Margarina Industrial,2.42,Grasas,15,Danec
+8,Levadura Fresca (500g),2.28,,183,Levapan
+9,Margarina Industrial,2.59,Grasas,330,La Fabril
+10,Quintal Harina Trigo,45.47,Materia Prima,481,Moderna
+11,Litro Leche Entera,,Lácteos,27,Vita
+12,Esencia Vainilla (Galón),12.26,Esencias,282,DelyClar
+13,Quintal Harina Trigo,texto_random,Materia Prima,0,Santa Lucia
+14,Esencia Vainilla (Galón),11.83,Esencias,378,DelyClar
+15,Esencia Vainilla (Galón),12.11,Esencias,43,DelyClar
+16,Cubeta Huevos (30u),,Materia Prima,323,Indaves
+17,Cubeta Huevos (30u),3.47,Materia Prima,416,Indaves
+18,Margarina Industrial,2.53,Grasas,203,Danec
+19,Margarina Industrial,2.53,Grasas,NaN,Danec
+20,Chocolate Cobertura (Kg),texto_random,Repostería,209,DelyClar
+21,Levadura Fresca (500g),2.3,Materia Prima,139,Levapan
+22,Esencia Vainilla (Galón),12.18,Esencias,276,DelyClar
+23,Esencia Vainilla (Galón),12.57,Esencias,242,DelyClar
+24,Margarina Industrial,2.46,Grasas,157,La Fabril
+25,Levadura Fresca (500g),2.25,Materia Prima,346,Levapan
+26,Litro Leche Entera,0.87,NaN,132,Rey Leche
+27,Cubeta Huevos (30u),3.57,Materia Prima,183,Indaves
+28,Chocolate Cobertura (Kg),8.11,Repostería,446,error
+29,Quintal Harina Trigo,NaN,Materia Prima,475,Santa Lucia
+30,Cubeta Huevos (30u),3.42,Materia Prima,451,
+31,Chocolate Cobertura (Kg),8.22,Repostería,52,DelyClar
+32,Esencia Vainilla (Galón),12.32,Esencias,error,DelyClar
+33,Levadura Fresca (500g),2.29,Materia Prima,122,Levapan
+34,Quintal Harina Trigo,45.01,Materia Prima,N/A,Santa Lucia
+35,Esencia Vainilla (Galón),11.99,Esencias,447,DelyClar
+36,Esencia Vainilla (Galón),12.43,Esencias,76,DelyClar
+37,Levadura Fresca (500g),2.28,N/A,194,Levapan
+38,Chocolate Cobertura (Kg),NaN,Repostería,306,Pacari
+39,Chocolate Cobertura (Kg),8.34,Repostería,336,DelyClar
+40,Esencia Vainilla (Galón),12.16,Esencias,260,DelyClar
+41,Margarina Industrial,2.43,Grasas,345,Danec
+42,Margarina Industrial,2.55,Grasas,0,Danec
+43,Levadura Fresca (500g),2.24,Materia Prima,NaN,Levapan
+44,Esencia Vainilla (Galón),12.41,Esencias,232,DelyClar
+45,Levadura Fresca (500g),2.27,Materia Prima,texto_random,Levapan
+46,Levadura Fresca (500g),2.21,Materia Prima,111,Levapan
+47,Chocolate Cobertura (Kg),8.42,Repostería,N/A,Pacari
+48,Margarina Industrial,2.52,Grasas,86,La Fabril
+49,Esencia Vainilla (Galón),12.52,Esencias,NaN,DelyClar
+50,Levadura Fresca (500g),2.32,Materia Prima,500,Levapan
+51,Quintal Harina Trigo,NaN,Materia Prima,254,Santa Lucia
+52,Levadura Fresca (500g),2.3,Materia Prima,N/A,Levapan
+53,Litro Leche Entera,0.86,Lácteos,105,Vita
+54,Chocolate Cobertura (Kg),8.83,Repostería,228,DelyClar
+55,Esencia Vainilla (Galón),12.39,Esencias,,DelyClar
+56,Margarina Industrial,2.56,Grasas,N/A,Danec
+57,Chocolate Cobertura (Kg),8.3,Repostería,295,texto_random
+58,Litro Leche Entera,0.93,Lácteos,34,Vita
+59,Quintal Harina Trigo,NaN,Materia Prima,166,Santa Lucia
+60,Chocolate Cobertura (Kg),8.26,Repostería,73,Pacari
+61,Litro Leche Entera,0.94,Lácteos,texto_random,Vita
+62,Margarina Industrial,2.42,Grasas,470,Danec
+63,Litro Leche Entera,0.9,Lácteos,39,Vita
+64,Margarina Industrial,2.5,,270,Danec
+65,Esencia Vainilla (Galón),12.38,Esencias,309,DelyClar
+66,Litro Leche Entera,0.86,Lácteos,86,Vita
+67,Cubeta Huevos (30u),3.58,Materia Prima,81,N/A
+68,Chocolate Cobertura (Kg),8.84,Repostería,168,DelyClar
+69,Quintal Harina Trigo,46.97,Materia Prima,399,Moderna
+70,Litro Leche Entera,0.94,Lácteos,416,Rey Leche
+71,Margarina Industrial,2.42,Grasas,340,texto_random
+72,Chocolate Cobertura (Kg),8.13,Repostería,205,Pacari
+73,Margarina Industrial,2.55,Grasas,NaN,Danec
+74,Chocolate Cobertura (Kg),8.6,N/A,332,Pacari
+75,Cubeta Huevos (30u),3.37,Materia Prima,25,Indaves
+76,Margarina Industrial,2.56,Grasas,NaN,La Fabril
+77,Chocolate Cobertura (Kg),8.47,Repostería,464,DelyClar
+78,Quintal Harina Trigo,43.81,Materia Prima,297,Moderna
+79,Quintal Harina Trigo,44.48,Materia Prima,335,Moderna
+80,Cubeta Huevos (30u),3.53,Materia Prima,462,Avícola
+81,Quintal Harina Trigo,,Materia Prima,177,Moderna
+82,Margarina Industrial,2.49,Grasas,364,La Fabril
+83,Cubeta Huevos (30u),3.58,Materia Prima,404,Avícola
+84,Margarina Industrial,2.51,Grasas,363,error
+85,Cubeta Huevos (30u),3.35,Materia Prima,,Indaves
+86,Litro Leche Entera,0.92,,32,Vita
+87,Litro Leche Entera,0.89,Lácteos,405,Vita
+88,Cubeta Huevos (30u),3.33,Materia Prima,,Indaves
+89,Margarina Industrial,2.55,Grasas,194,Danec
+90,Margarina Industrial,2.54,Grasas,N/A,Danec
+91,Quintal Harina Trigo,42.77,Materia Prima,35,Santa Lucia
+92,Cubeta Huevos (30u),3.39,Materia Prima,3,Avícola
+93,Litro Leche Entera,0.87,Lácteos,260,Vita
+94,Margarina Industrial,2.52,Grasas,N/A,La Fabril
+95,Levadura Fresca (500g),2.22,Materia Prima,484,Levapan
+96,Chocolate Cobertura (Kg),8.8,Repostería,error,DelyClar
+97,Esencia Vainilla (Galón),N/A,Esencias,37,DelyClar
+98,Margarina Industrial,2.53,Grasas,NaN,Danec
+99,Margarina Industrial,2.62,Grasas,132,La Fabril

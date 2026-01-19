@@ -1,0 +1,802 @@
+[
+    {
+        "id_insumo":100,
+        "nombre":"Levadura Fresca (500g)",
+        "precio_compra":"2.3",
+        "categoria":"Materia Prima",
+        "stock":"398",
+        "proveedor":"Levapan"
+    },
+    {
+        "id_insumo":101,
+        "nombre":"Quintal Harina Trigo",
+        "precio_compra":"46.11",
+        "categoria":"Materia Prima",
+        "stock":"99",
+        "proveedor":"Santa Lucia"
+    },
+    {
+        "id_insumo":102,
+        "nombre":"Margarina Industrial",
+        "precio_compra":"2.4",
+        "categoria":"Grasas",
+        "stock":"373",
+        "proveedor":"NaN"
+    },
+    {
+        "id_insumo":103,
+        "nombre":"Litro Leche Entera",
+        "precio_compra":"0.87",
+        "categoria":"L\u00e1cteos",
+        "stock":"47",
+        "proveedor":"error"
+    },
+    {
+        "id_insumo":104,
+        "nombre":"Quintal Harina Trigo",
+        "precio_compra":"45.41",
+        "categoria":"Materia Prima",
+        "stock":"64",
+        "proveedor":"Santa Lucia"
+    },
+    {
+        "id_insumo":105,
+        "nombre":"Litro Leche Entera",
+        "precio_compra":"0.94",
+        "categoria":"L\u00e1cteos",
+        "stock":"305",
+        "proveedor":"Vita"
+    },
+    {
+        "id_insumo":106,
+        "nombre":"Cubeta Huevos (30u)",
+        "precio_compra":"3.56",
+        "categoria":"Materia Prima",
+        "stock":"476",
+        "proveedor":"Av\u00edcola"
+    },
+    {
+        "id_insumo":107,
+        "nombre":"Margarina Industrial",
+        "precio_compra":"2.38",
+        "categoria":"Grasas",
+        "stock":"434",
+        "proveedor":"N\/A"
+    },
+    {
+        "id_insumo":108,
+        "nombre":"Levadura Fresca (500g)",
+        "precio_compra":"2.25",
+        "categoria":"Materia Prima",
+        "stock":"467",
+        "proveedor":""
+    },
+    {
+        "id_insumo":109,
+        "nombre":"Litro Leche Entera",
+        "precio_compra":"0.87",
+        "categoria":"L\u00e1cteos",
+        "stock":"1",
+        "proveedor":"Vita"
+    },
+    {
+        "id_insumo":110,
+        "nombre":"Quintal Harina Trigo",
+        "precio_compra":"44.76",
+        "categoria":"Materia Prima",
+        "stock":"235",
+        "proveedor":"Santa Lucia"
+    },
+    {
+        "id_insumo":111,
+        "nombre":"Levadura Fresca (500g)",
+        "precio_compra":"2.3",
+        "categoria":"N\/A",
+        "stock":"88",
+        "proveedor":"Levapan"
+    },
+    {
+        "id_insumo":112,
+        "nombre":"Esencia Vainilla (Gal\u00f3n)",
+        "precio_compra":"11.57",
+        "categoria":"Esencias",
+        "stock":"123",
+        "proveedor":"DelyClar"
+    },
+    {
+        "id_insumo":113,
+        "nombre":"Levadura Fresca (500g)",
+        "precio_compra":"",
+        "categoria":"Materia Prima",
+        "stock":"224",
+        "proveedor":"Levapan"
+    },
+    {
+        "id_insumo":114,
+        "nombre":"Levadura Fresca (500g)",
+        "precio_compra":"2.25",
+        "categoria":"",
+        "stock":"37",
+        "proveedor":"Levapan"
+    },
+    {
+        "id_insumo":115,
+        "nombre":"Levadura Fresca (500g)",
+        "precio_compra":"error",
+        "categoria":"Materia Prima",
+        "stock":"9",
+        "proveedor":"Levapan"
+    },
+    {
+        "id_insumo":116,
+        "nombre":"Quintal Harina Trigo",
+        "precio_compra":"44.38",
+        "categoria":"Materia Prima",
+        "stock":"317",
+        "proveedor":"Santa Lucia"
+    },
+    {
+        "id_insumo":117,
+        "nombre":"Quintal Harina Trigo",
+        "precio_compra":"45.81",
+        "categoria":"Materia Prima",
+        "stock":"120",
+        "proveedor":"Santa Lucia"
+    },
+    {
+        "id_insumo":118,
+        "nombre":"Quintal Harina Trigo",
+        "precio_compra":"45.88",
+        "categoria":"Materia Prima",
+        "stock":"369",
+        "proveedor":"texto_random"
+    },
+    {
+        "id_insumo":119,
+        "nombre":"Chocolate Cobertura (Kg)",
+        "precio_compra":"8.81",
+        "categoria":"Reposter\u00eda",
+        "stock":"152",
+        "proveedor":"DelyClar"
+    },
+    {
+        "id_insumo":120,
+        "nombre":"Levadura Fresca (500g)",
+        "precio_compra":"2.26",
+        "categoria":"Materia Prima",
+        "stock":"16",
+        "proveedor":"Levapan"
+    },
+    {
+        "id_insumo":121,
+        "nombre":"Chocolate Cobertura (Kg)",
+        "precio_compra":"8.32",
+        "categoria":"error",
+        "stock":"49",
+        "proveedor":"DelyClar"
+    },
+    {
+        "id_insumo":122,
+        "nombre":"Margarina Industrial",
+        "precio_compra":"2.42",
+        "categoria":"Grasas",
+        "stock":"244",
+        "proveedor":"La Fabril"
+    },
+    {
+        "id_insumo":123,
+        "nombre":"Cubeta Huevos (30u)",
+        "precio_compra":"3.6",
+        "categoria":"Materia Prima",
+        "stock":"18",
+        "proveedor":"Indaves"
+    },
+    {
+        "id_insumo":124,
+        "nombre":"Esencia Vainilla (Gal\u00f3n)",
+        "precio_compra":"11.46",
+        "categoria":"N\/A",
+        "stock":"350",
+        "proveedor":"DelyClar"
+    },
+    {
+        "id_insumo":125,
+        "nombre":"Levadura Fresca (500g)",
+        "precio_compra":"2.2",
+        "categoria":"",
+        "stock":"116",
+        "proveedor":"Levapan"
+    },
+    {
+        "id_insumo":126,
+        "nombre":"Levadura Fresca (500g)",
+        "precio_compra":"2.16",
+        "categoria":"texto_random",
+        "stock":"215",
+        "proveedor":"Levapan"
+    },
+    {
+        "id_insumo":127,
+        "nombre":"Margarina Industrial",
+        "precio_compra":"2.57",
+        "categoria":"",
+        "stock":"312",
+        "proveedor":"Danec"
+    },
+    {
+        "id_insumo":128,
+        "nombre":"Chocolate Cobertura (Kg)",
+        "precio_compra":"8.37",
+        "categoria":"Reposter\u00eda",
+        "stock":"",
+        "proveedor":"Pacari"
+    },
+    {
+        "id_insumo":129,
+        "nombre":"Levadura Fresca (500g)",
+        "precio_compra":"2.31",
+        "categoria":"Materia Prima",
+        "stock":"18",
+        "proveedor":"NaN"
+    },
+    {
+        "id_insumo":130,
+        "nombre":"Levadura Fresca (500g)",
+        "precio_compra":"2.18",
+        "categoria":"N\/A",
+        "stock":"116",
+        "proveedor":"Levapan"
+    },
+    {
+        "id_insumo":131,
+        "nombre":"Margarina Industrial",
+        "precio_compra":"2.53",
+        "categoria":"Grasas",
+        "stock":"404",
+        "proveedor":"La Fabril"
+    },
+    {
+        "id_insumo":132,
+        "nombre":"Quintal Harina Trigo",
+        "precio_compra":"45.37",
+        "categoria":"Materia Prima",
+        "stock":"357",
+        "proveedor":"Moderna"
+    },
+    {
+        "id_insumo":133,
+        "nombre":"Levadura Fresca (500g)",
+        "precio_compra":"2.25",
+        "categoria":"Materia Prima",
+        "stock":"",
+        "proveedor":"Levapan"
+    },
+    {
+        "id_insumo":134,
+        "nombre":"Litro Leche Entera",
+        "precio_compra":"0.9",
+        "categoria":"L\u00e1cteos",
+        "stock":"453",
+        "proveedor":"Vita"
+    },
+    {
+        "id_insumo":135,
+        "nombre":"Margarina Industrial",
+        "precio_compra":"2.56",
+        "categoria":"Grasas",
+        "stock":"94",
+        "proveedor":"Danec"
+    },
+    {
+        "id_insumo":136,
+        "nombre":"Litro Leche Entera",
+        "precio_compra":"0.86",
+        "categoria":"L\u00e1cteos",
+        "stock":"456",
+        "proveedor":""
+    },
+    {
+        "id_insumo":137,
+        "nombre":"Chocolate Cobertura (Kg)",
+        "precio_compra":"8.17",
+        "categoria":"Reposter\u00eda",
+        "stock":"50",
+        "proveedor":"DelyClar"
+    },
+    {
+        "id_insumo":138,
+        "nombre":"Cubeta Huevos (30u)",
+        "precio_compra":"3.58",
+        "categoria":"Materia Prima",
+        "stock":"96",
+        "proveedor":"Indaves"
+    },
+    {
+        "id_insumo":139,
+        "nombre":"Litro Leche Entera",
+        "precio_compra":"0.86",
+        "categoria":"L\u00e1cteos",
+        "stock":"80",
+        "proveedor":"Vita"
+    },
+    {
+        "id_insumo":140,
+        "nombre":"Chocolate Cobertura (Kg)",
+        "precio_compra":"8.36",
+        "categoria":"Reposter\u00eda",
+        "stock":"74",
+        "proveedor":"Pacari"
+    },
+    {
+        "id_insumo":141,
+        "nombre":"Margarina Industrial",
+        "precio_compra":"2.62",
+        "categoria":"Grasas",
+        "stock":"N\/A",
+        "proveedor":"Danec"
+    },
+    {
+        "id_insumo":142,
+        "nombre":"Chocolate Cobertura (Kg)",
+        "precio_compra":"texto_random",
+        "categoria":"Reposter\u00eda",
+        "stock":"315",
+        "proveedor":"DelyClar"
+    },
+    {
+        "id_insumo":143,
+        "nombre":"Esencia Vainilla (Gal\u00f3n)",
+        "precio_compra":"12.42",
+        "categoria":"Esencias",
+        "stock":"325",
+        "proveedor":"DelyClar"
+    },
+    {
+        "id_insumo":144,
+        "nombre":"Margarina Industrial",
+        "precio_compra":"2.58",
+        "categoria":"texto_random",
+        "stock":"214",
+        "proveedor":"Danec"
+    },
+    {
+        "id_insumo":145,
+        "nombre":"Quintal Harina Trigo",
+        "precio_compra":"NaN",
+        "categoria":"Materia Prima",
+        "stock":"107",
+        "proveedor":"Moderna"
+    },
+    {
+        "id_insumo":146,
+        "nombre":"Levadura Fresca (500g)",
+        "precio_compra":"2.3",
+        "categoria":"",
+        "stock":"435",
+        "proveedor":"Levapan"
+    },
+    {
+        "id_insumo":147,
+        "nombre":"Litro Leche Entera",
+        "precio_compra":"0.86",
+        "categoria":"L\u00e1cteos",
+        "stock":"N\/A",
+        "proveedor":"Vita"
+    },
+    {
+        "id_insumo":148,
+        "nombre":"Esencia Vainilla (Gal\u00f3n)",
+        "precio_compra":"12.17",
+        "categoria":"Esencias",
+        "stock":"163",
+        "proveedor":"DelyClar"
+    },
+    {
+        "id_insumo":149,
+        "nombre":"Quintal Harina Trigo",
+        "precio_compra":"44.84",
+        "categoria":"Materia Prima",
+        "stock":"301",
+        "proveedor":"Moderna"
+    },
+    {
+        "id_insumo":150,
+        "nombre":"Chocolate Cobertura (Kg)",
+        "precio_compra":"8.36",
+        "categoria":"Reposter\u00eda",
+        "stock":"245",
+        "proveedor":"Pacari"
+    },
+    {
+        "id_insumo":151,
+        "nombre":"Levadura Fresca (500g)",
+        "precio_compra":"2.35",
+        "categoria":"",
+        "stock":"263",
+        "proveedor":"Levapan"
+    },
+    {
+        "id_insumo":152,
+        "nombre":"Chocolate Cobertura (Kg)",
+        "precio_compra":"8.72",
+        "categoria":"Reposter\u00eda",
+        "stock":"459",
+        "proveedor":"Pacari"
+    },
+    {
+        "id_insumo":153,
+        "nombre":"Levadura Fresca (500g)",
+        "precio_compra":"2.27",
+        "categoria":"Materia Prima",
+        "stock":"72",
+        "proveedor":"Levapan"
+    },
+    {
+        "id_insumo":154,
+        "nombre":"Esencia Vainilla (Gal\u00f3n)",
+        "precio_compra":"12.33",
+        "categoria":"Esencias",
+        "stock":"289",
+        "proveedor":"DelyClar"
+    },
+    {
+        "id_insumo":155,
+        "nombre":"Chocolate Cobertura (Kg)",
+        "precio_compra":"8.63",
+        "categoria":"Reposter\u00eda",
+        "stock":"texto_random",
+        "proveedor":"Pacari"
+    },
+    {
+        "id_insumo":156,
+        "nombre":"Levadura Fresca (500g)",
+        "precio_compra":"2.23",
+        "categoria":"Materia Prima",
+        "stock":"239",
+        "proveedor":"Levapan"
+    },
+    {
+        "id_insumo":157,
+        "nombre":"Chocolate Cobertura (Kg)",
+        "precio_compra":"8.39",
+        "categoria":"Reposter\u00eda",
+        "stock":"413",
+        "proveedor":"Pacari"
+    },
+    {
+        "id_insumo":158,
+        "nombre":"Chocolate Cobertura (Kg)",
+        "precio_compra":"8.36",
+        "categoria":"N\/A",
+        "stock":"441",
+        "proveedor":"DelyClar"
+    },
+    {
+        "id_insumo":159,
+        "nombre":"Levadura Fresca (500g)",
+        "precio_compra":"2.27",
+        "categoria":"Materia Prima",
+        "stock":"N\/A",
+        "proveedor":"Levapan"
+    },
+    {
+        "id_insumo":160,
+        "nombre":"Esencia Vainilla (Gal\u00f3n)",
+        "precio_compra":"12.34",
+        "categoria":"Esencias",
+        "stock":"236",
+        "proveedor":"NaN"
+    },
+    {
+        "id_insumo":161,
+        "nombre":"Esencia Vainilla (Gal\u00f3n)",
+        "precio_compra":"12.25",
+        "categoria":"Esencias",
+        "stock":"394",
+        "proveedor":"DelyClar"
+    },
+    {
+        "id_insumo":162,
+        "nombre":"Esencia Vainilla (Gal\u00f3n)",
+        "precio_compra":"12.44",
+        "categoria":"Esencias",
+        "stock":"",
+        "proveedor":"DelyClar"
+    },
+    {
+        "id_insumo":163,
+        "nombre":"Levadura Fresca (500g)",
+        "precio_compra":"2.34",
+        "categoria":"Materia Prima",
+        "stock":"443",
+        "proveedor":"Levapan"
+    },
+    {
+        "id_insumo":164,
+        "nombre":"Quintal Harina Trigo",
+        "precio_compra":"46.96",
+        "categoria":"error",
+        "stock":"183",
+        "proveedor":"Santa Lucia"
+    },
+    {
+        "id_insumo":165,
+        "nombre":"Litro Leche Entera",
+        "precio_compra":"error",
+        "categoria":"L\u00e1cteos",
+        "stock":"247",
+        "proveedor":"Rey Leche"
+    },
+    {
+        "id_insumo":166,
+        "nombre":"Cubeta Huevos (30u)",
+        "precio_compra":"3.58",
+        "categoria":"Materia Prima",
+        "stock":"141",
+        "proveedor":"Indaves"
+    },
+    {
+        "id_insumo":167,
+        "nombre":"Litro Leche Entera",
+        "precio_compra":"0.92",
+        "categoria":"NaN",
+        "stock":"61",
+        "proveedor":"Vita"
+    },
+    {
+        "id_insumo":168,
+        "nombre":"Levadura Fresca (500g)",
+        "precio_compra":"2.21",
+        "categoria":"Materia Prima",
+        "stock":"333",
+        "proveedor":"Levapan"
+    },
+    {
+        "id_insumo":169,
+        "nombre":"Cubeta Huevos (30u)",
+        "precio_compra":"3.43",
+        "categoria":"Materia Prima",
+        "stock":"466",
+        "proveedor":"Indaves"
+    },
+    {
+        "id_insumo":170,
+        "nombre":"Cubeta Huevos (30u)",
+        "precio_compra":"3.54",
+        "categoria":"Materia Prima",
+        "stock":"error",
+        "proveedor":"Av\u00edcola"
+    },
+    {
+        "id_insumo":171,
+        "nombre":"Cubeta Huevos (30u)",
+        "precio_compra":"3.6",
+        "categoria":"Materia Prima",
+        "stock":"288",
+        "proveedor":"Indaves"
+    },
+    {
+        "id_insumo":172,
+        "nombre":"Quintal Harina Trigo",
+        "precio_compra":"46.31",
+        "categoria":"Materia Prima",
+        "stock":"352",
+        "proveedor":""
+    },
+    {
+        "id_insumo":173,
+        "nombre":"Cubeta Huevos (30u)",
+        "precio_compra":"3.49",
+        "categoria":"Materia Prima",
+        "stock":"339",
+        "proveedor":"Av\u00edcola"
+    },
+    {
+        "id_insumo":174,
+        "nombre":"Chocolate Cobertura (Kg)",
+        "precio_compra":"8.24",
+        "categoria":"Reposter\u00eda",
+        "stock":"234",
+        "proveedor":"Pacari"
+    },
+    {
+        "id_insumo":175,
+        "nombre":"Margarina Industrial",
+        "precio_compra":"2.57",
+        "categoria":"Grasas",
+        "stock":"240",
+        "proveedor":"La Fabril"
+    },
+    {
+        "id_insumo":176,
+        "nombre":"Cubeta Huevos (30u)",
+        "precio_compra":"3.61",
+        "categoria":"Materia Prima",
+        "stock":"333",
+        "proveedor":"Indaves"
+    },
+    {
+        "id_insumo":177,
+        "nombre":"Levadura Fresca (500g)",
+        "precio_compra":"2.19",
+        "categoria":"Materia Prima",
+        "stock":"36",
+        "proveedor":"Levapan"
+    },
+    {
+        "id_insumo":178,
+        "nombre":"Litro Leche Entera",
+        "precio_compra":"0.92",
+        "categoria":"L\u00e1cteos",
+        "stock":"331",
+        "proveedor":"Vita"
+    },
+    {
+        "id_insumo":179,
+        "nombre":"Cubeta Huevos (30u)",
+        "precio_compra":"3.38",
+        "categoria":"Materia Prima",
+        "stock":"176",
+        "proveedor":"Indaves"
+    },
+    {
+        "id_insumo":180,
+        "nombre":"Cubeta Huevos (30u)",
+        "precio_compra":"3.49",
+        "categoria":"Materia Prima",
+        "stock":"23",
+        "proveedor":"Indaves"
+    },
+    {
+        "id_insumo":181,
+        "nombre":"Cubeta Huevos (30u)",
+        "precio_compra":"3.65",
+        "categoria":"NaN",
+        "stock":"121",
+        "proveedor":"Indaves"
+    },
+    {
+        "id_insumo":182,
+        "nombre":"Quintal Harina Trigo",
+        "precio_compra":"43.09",
+        "categoria":"Materia Prima",
+        "stock":"471",
+        "proveedor":"Santa Lucia"
+    },
+    {
+        "id_insumo":183,
+        "nombre":"Margarina Industrial",
+        "precio_compra":"2.47",
+        "categoria":"Grasas",
+        "stock":"297",
+        "proveedor":"La Fabril"
+    },
+    {
+        "id_insumo":184,
+        "nombre":"Esencia Vainilla (Gal\u00f3n)",
+        "precio_compra":"12.56",
+        "categoria":"Esencias",
+        "stock":"NaN",
+        "proveedor":"DelyClar"
+    },
+    {
+        "id_insumo":185,
+        "nombre":"Margarina Industrial",
+        "precio_compra":"2.5",
+        "categoria":"Grasas",
+        "stock":"23",
+        "proveedor":"Danec"
+    },
+    {
+        "id_insumo":186,
+        "nombre":"Cubeta Huevos (30u)",
+        "precio_compra":"error",
+        "categoria":"Materia Prima",
+        "stock":"247",
+        "proveedor":"Av\u00edcola"
+    },
+    {
+        "id_insumo":187,
+        "nombre":"Chocolate Cobertura (Kg)",
+        "precio_compra":"error",
+        "categoria":"Reposter\u00eda",
+        "stock":"25",
+        "proveedor":"Pacari"
+    },
+    {
+        "id_insumo":188,
+        "nombre":"Litro Leche Entera",
+        "precio_compra":"0.86",
+        "categoria":"texto_random",
+        "stock":"259",
+        "proveedor":"Rey Leche"
+    },
+    {
+        "id_insumo":189,
+        "nombre":"Quintal Harina Trigo",
+        "precio_compra":"44.99",
+        "categoria":"Materia Prima",
+        "stock":"302",
+        "proveedor":"Santa Lucia"
+    },
+    {
+        "id_insumo":190,
+        "nombre":"Margarina Industrial",
+        "precio_compra":"2.54",
+        "categoria":"Grasas",
+        "stock":"71",
+        "proveedor":"La Fabril"
+    },
+    {
+        "id_insumo":191,
+        "nombre":"Levadura Fresca (500g)",
+        "precio_compra":"2.18",
+        "categoria":"Materia Prima",
+        "stock":"253",
+        "proveedor":"Levapan"
+    },
+    {
+        "id_insumo":192,
+        "nombre":"Cubeta Huevos (30u)",
+        "precio_compra":"3.56",
+        "categoria":"Materia Prima",
+        "stock":"169",
+        "proveedor":"Av\u00edcola"
+    },
+    {
+        "id_insumo":193,
+        "nombre":"Cubeta Huevos (30u)",
+        "precio_compra":"3.55",
+        "categoria":"Materia Prima",
+        "stock":"232",
+        "proveedor":"Av\u00edcola"
+    },
+    {
+        "id_insumo":194,
+        "nombre":"Chocolate Cobertura (Kg)",
+        "precio_compra":"8.45",
+        "categoria":"Reposter\u00eda",
+        "stock":"280",
+        "proveedor":"Pacari"
+    },
+    {
+        "id_insumo":195,
+        "nombre":"Margarina Industrial",
+        "precio_compra":"2.38",
+        "categoria":"Grasas",
+        "stock":"456",
+        "proveedor":"Danec"
+    },
+    {
+        "id_insumo":196,
+        "nombre":"Quintal Harina Trigo",
+        "precio_compra":"46.98",
+        "categoria":"Materia Prima",
+        "stock":"86",
+        "proveedor":"Moderna"
+    },
+    {
+        "id_insumo":197,
+        "nombre":"Cubeta Huevos (30u)",
+        "precio_compra":"3.65",
+        "categoria":"Materia Prima",
+        "stock":"336",
+        "proveedor":"Av\u00edcola"
+    },
+    {
+        "id_insumo":198,
+        "nombre":"Cubeta Huevos (30u)",
+        "precio_compra":"3.35",
+        "categoria":"Materia Prima",
+        "stock":"431",
+        "proveedor":"Av\u00edcola"
+    },
+    {
+        "id_insumo":199,
+        "nombre":"Litro Leche Entera",
+        "precio_compra":"",
+        "categoria":"L\u00e1cteos",
+        "stock":"42",
+        "proveedor":"Rey Leche"
+    }
+]

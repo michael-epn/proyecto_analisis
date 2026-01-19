@@ -1,0 +1,803 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <id_insumo>200</id_insumo>
+    <nombre>Quintal Harina Trigo</nombre>
+    <precio_compra>46.22</precio_compra>
+    <categoria>Materia Prima</categoria>
+    <stock>33</stock>
+    <proveedor>Santa Lucia</proveedor>
+  </row>
+  <row>
+    <id_insumo>201</id_insumo>
+    <nombre>Cubeta Huevos (30u)</nombre>
+    <precio_compra>3.44</precio_compra>
+    <categoria>Materia Prima</categoria>
+    <stock/>
+    <proveedor>Indaves</proveedor>
+  </row>
+  <row>
+    <id_insumo>202</id_insumo>
+    <nombre>Margarina Industrial</nombre>
+    <precio_compra>2.49</precio_compra>
+    <categoria>Grasas</categoria>
+    <stock>309</stock>
+    <proveedor>La Fabril</proveedor>
+  </row>
+  <row>
+    <id_insumo>203</id_insumo>
+    <nombre>Chocolate Cobertura (Kg)</nombre>
+    <precio_compra>8.68</precio_compra>
+    <categoria/>
+    <stock>228</stock>
+    <proveedor>DelyClar</proveedor>
+  </row>
+  <row>
+    <id_insumo>204</id_insumo>
+    <nombre>Levadura Fresca (500g)</nombre>
+    <precio_compra>2.36</precio_compra>
+    <categoria>Materia Prima</categoria>
+    <stock>32</stock>
+    <proveedor>Levapan</proveedor>
+  </row>
+  <row>
+    <id_insumo>205</id_insumo>
+    <nombre>Cubeta Huevos (30u)</nombre>
+    <precio_compra>3.6</precio_compra>
+    <categoria>Materia Prima</categoria>
+    <stock>error</stock>
+    <proveedor>Avícola</proveedor>
+  </row>
+  <row>
+    <id_insumo>206</id_insumo>
+    <nombre>Esencia Vainilla (Galón)</nombre>
+    <precio_compra>11.93</precio_compra>
+    <categoria>Esencias</categoria>
+    <stock>325</stock>
+    <proveedor>DelyClar</proveedor>
+  </row>
+  <row>
+    <id_insumo>207</id_insumo>
+    <nombre>Chocolate Cobertura (Kg)</nombre>
+    <precio_compra>8.45</precio_compra>
+    <categoria>N/A</categoria>
+    <stock>192</stock>
+    <proveedor>Pacari</proveedor>
+  </row>
+  <row>
+    <id_insumo>208</id_insumo>
+    <nombre>Litro Leche Entera</nombre>
+    <precio_compra>0.89</precio_compra>
+    <categoria>Lácteos</categoria>
+    <stock>370</stock>
+    <proveedor>Vita</proveedor>
+  </row>
+  <row>
+    <id_insumo>209</id_insumo>
+    <nombre>Margarina Industrial</nombre>
+    <precio_compra>2.5</precio_compra>
+    <categoria>Grasas</categoria>
+    <stock>NaN</stock>
+    <proveedor>La Fabril</proveedor>
+  </row>
+  <row>
+    <id_insumo>210</id_insumo>
+    <nombre>Litro Leche Entera</nombre>
+    <precio_compra>0.86</precio_compra>
+    <categoria>Lácteos</categoria>
+    <stock>419</stock>
+    <proveedor>Rey Leche</proveedor>
+  </row>
+  <row>
+    <id_insumo>211</id_insumo>
+    <nombre>Esencia Vainilla (Galón)</nombre>
+    <precio_compra>11.5</precio_compra>
+    <categoria>Esencias</categoria>
+    <stock>444</stock>
+    <proveedor>DelyClar</proveedor>
+  </row>
+  <row>
+    <id_insumo>212</id_insumo>
+    <nombre>Levadura Fresca (500g)</nombre>
+    <precio_compra>2.28</precio_compra>
+    <categoria>Materia Prima</categoria>
+    <stock>58</stock>
+    <proveedor>Levapan</proveedor>
+  </row>
+  <row>
+    <id_insumo>213</id_insumo>
+    <nombre>Esencia Vainilla (Galón)</nombre>
+    <precio_compra>11.71</precio_compra>
+    <categoria>Esencias</categoria>
+    <stock>error</stock>
+    <proveedor>DelyClar</proveedor>
+  </row>
+  <row>
+    <id_insumo>214</id_insumo>
+    <nombre>Cubeta Huevos (30u)</nombre>
+    <precio_compra>3.43</precio_compra>
+    <categoria>texto_random</categoria>
+    <stock>23</stock>
+    <proveedor>Indaves</proveedor>
+  </row>
+  <row>
+    <id_insumo>215</id_insumo>
+    <nombre>Esencia Vainilla (Galón)</nombre>
+    <precio_compra>12.43</precio_compra>
+    <categoria>Esencias</categoria>
+    <stock>407</stock>
+    <proveedor>DelyClar</proveedor>
+  </row>
+  <row>
+    <id_insumo>216</id_insumo>
+    <nombre>Margarina Industrial</nombre>
+    <precio_compra>2.51</precio_compra>
+    <categoria>N/A</categoria>
+    <stock>377</stock>
+    <proveedor>La Fabril</proveedor>
+  </row>
+  <row>
+    <id_insumo>217</id_insumo>
+    <nombre>Chocolate Cobertura (Kg)</nombre>
+    <precio_compra>8.8</precio_compra>
+    <categoria>Repostería</categoria>
+    <stock>304</stock>
+    <proveedor>Pacari</proveedor>
+  </row>
+  <row>
+    <id_insumo>218</id_insumo>
+    <nombre>Levadura Fresca (500g)</nombre>
+    <precio_compra>2.33</precio_compra>
+    <categoria>Materia Prima</categoria>
+    <stock>167</stock>
+    <proveedor>Levapan</proveedor>
+  </row>
+  <row>
+    <id_insumo>219</id_insumo>
+    <nombre>Cubeta Huevos (30u)</nombre>
+    <precio_compra>3.46</precio_compra>
+    <categoria>Materia Prima</categoria>
+    <stock>173</stock>
+    <proveedor/>
+  </row>
+  <row>
+    <id_insumo>220</id_insumo>
+    <nombre>Levadura Fresca (500g)</nombre>
+    <precio_compra>2.21</precio_compra>
+    <categoria>Materia Prima</categoria>
+    <stock>101</stock>
+    <proveedor>Levapan</proveedor>
+  </row>
+  <row>
+    <id_insumo>221</id_insumo>
+    <nombre>Levadura Fresca (500g)</nombre>
+    <precio_compra>2.35</precio_compra>
+    <categoria>Materia Prima</categoria>
+    <stock>205</stock>
+    <proveedor>Levapan</proveedor>
+  </row>
+  <row>
+    <id_insumo>222</id_insumo>
+    <nombre>Esencia Vainilla (Galón)</nombre>
+    <precio_compra>12.44</precio_compra>
+    <categoria>Esencias</categoria>
+    <stock>341</stock>
+    <proveedor>DelyClar</proveedor>
+  </row>
+  <row>
+    <id_insumo>223</id_insumo>
+    <nombre>Quintal Harina Trigo</nombre>
+    <precio_compra>45.43</precio_compra>
+    <categoria>Materia Prima</categoria>
+    <stock>95</stock>
+    <proveedor/>
+  </row>
+  <row>
+    <id_insumo>224</id_insumo>
+    <nombre>Chocolate Cobertura (Kg)</nombre>
+    <precio_compra>8.57</precio_compra>
+    <categoria>Repostería</categoria>
+    <stock>469</stock>
+    <proveedor>Pacari</proveedor>
+  </row>
+  <row>
+    <id_insumo>225</id_insumo>
+    <nombre>Levadura Fresca (500g)</nombre>
+    <precio_compra>2.35</precio_compra>
+    <categoria>Materia Prima</categoria>
+    <stock>375</stock>
+    <proveedor>N/A</proveedor>
+  </row>
+  <row>
+    <id_insumo>226</id_insumo>
+    <nombre>Levadura Fresca (500g)</nombre>
+    <precio_compra>2.26</precio_compra>
+    <categoria>Materia Prima</categoria>
+    <stock>450</stock>
+    <proveedor>Levapan</proveedor>
+  </row>
+  <row>
+    <id_insumo>227</id_insumo>
+    <nombre>Esencia Vainilla (Galón)</nombre>
+    <precio_compra>12.06</precio_compra>
+    <categoria>Esencias</categoria>
+    <stock>138</stock>
+    <proveedor>NaN</proveedor>
+  </row>
+  <row>
+    <id_insumo>228</id_insumo>
+    <nombre>Levadura Fresca (500g)</nombre>
+    <precio_compra>2.3</precio_compra>
+    <categoria>Materia Prima</categoria>
+    <stock>235</stock>
+    <proveedor>Levapan</proveedor>
+  </row>
+  <row>
+    <id_insumo>229</id_insumo>
+    <nombre>Margarina Industrial</nombre>
+    <precio_compra>2.57</precio_compra>
+    <categoria>Grasas</categoria>
+    <stock>438</stock>
+    <proveedor>NaN</proveedor>
+  </row>
+  <row>
+    <id_insumo>230</id_insumo>
+    <nombre>Margarina Industrial</nombre>
+    <precio_compra/>
+    <categoria>Grasas</categoria>
+    <stock>196</stock>
+    <proveedor>La Fabril</proveedor>
+  </row>
+  <row>
+    <id_insumo>231</id_insumo>
+    <nombre>Esencia Vainilla (Galón)</nombre>
+    <precio_compra>11.75</precio_compra>
+    <categoria>Esencias</categoria>
+    <stock>462</stock>
+    <proveedor>DelyClar</proveedor>
+  </row>
+  <row>
+    <id_insumo>232</id_insumo>
+    <nombre>Margarina Industrial</nombre>
+    <precio_compra>2.48</precio_compra>
+    <categoria>Grasas</categoria>
+    <stock>70</stock>
+    <proveedor/>
+  </row>
+  <row>
+    <id_insumo>233</id_insumo>
+    <nombre>Chocolate Cobertura (Kg)</nombre>
+    <precio_compra>8.58</precio_compra>
+    <categoria>Repostería</categoria>
+    <stock>339</stock>
+    <proveedor>DelyClar</proveedor>
+  </row>
+  <row>
+    <id_insumo>234</id_insumo>
+    <nombre>Chocolate Cobertura (Kg)</nombre>
+    <precio_compra>8.42</precio_compra>
+    <categoria>Repostería</categoria>
+    <stock>336</stock>
+    <proveedor/>
+  </row>
+  <row>
+    <id_insumo>235</id_insumo>
+    <nombre>Quintal Harina Trigo</nombre>
+    <precio_compra>44.19</precio_compra>
+    <categoria>Materia Prima</categoria>
+    <stock>335</stock>
+    <proveedor>Moderna</proveedor>
+  </row>
+  <row>
+    <id_insumo>236</id_insumo>
+    <nombre>Levadura Fresca (500g)</nombre>
+    <precio_compra>2.29</precio_compra>
+    <categoria>Materia Prima</categoria>
+    <stock>texto_random</stock>
+    <proveedor>Levapan</proveedor>
+  </row>
+  <row>
+    <id_insumo>237</id_insumo>
+    <nombre>Levadura Fresca (500g)</nombre>
+    <precio_compra>texto_random</precio_compra>
+    <categoria>Materia Prima</categoria>
+    <stock>465</stock>
+    <proveedor>Levapan</proveedor>
+  </row>
+  <row>
+    <id_insumo>238</id_insumo>
+    <nombre>Esencia Vainilla (Galón)</nombre>
+    <precio_compra>11.74</precio_compra>
+    <categoria>Esencias</categoria>
+    <stock>131</stock>
+    <proveedor>NaN</proveedor>
+  </row>
+  <row>
+    <id_insumo>239</id_insumo>
+    <nombre>Litro Leche Entera</nombre>
+    <precio_compra>texto_random</precio_compra>
+    <categoria>Lácteos</categoria>
+    <stock>249</stock>
+    <proveedor>Vita</proveedor>
+  </row>
+  <row>
+    <id_insumo>240</id_insumo>
+    <nombre>Cubeta Huevos (30u)</nombre>
+    <precio_compra>3.61</precio_compra>
+    <categoria>Materia Prima</categoria>
+    <stock>361</stock>
+    <proveedor>Indaves</proveedor>
+  </row>
+  <row>
+    <id_insumo>241</id_insumo>
+    <nombre>Levadura Fresca (500g)</nombre>
+    <precio_compra>2.31</precio_compra>
+    <categoria>Materia Prima</categoria>
+    <stock>6</stock>
+    <proveedor>NaN</proveedor>
+  </row>
+  <row>
+    <id_insumo>242</id_insumo>
+    <nombre>Esencia Vainilla (Galón)</nombre>
+    <precio_compra>11.4</precio_compra>
+    <categoria>Esencias</categoria>
+    <stock>380</stock>
+    <proveedor>DelyClar</proveedor>
+  </row>
+  <row>
+    <id_insumo>243</id_insumo>
+    <nombre>Cubeta Huevos (30u)</nombre>
+    <precio_compra>3.48</precio_compra>
+    <categoria>Materia Prima</categoria>
+    <stock>261</stock>
+    <proveedor>Avícola</proveedor>
+  </row>
+  <row>
+    <id_insumo>244</id_insumo>
+    <nombre>Chocolate Cobertura (Kg)</nombre>
+    <precio_compra>8.34</precio_compra>
+    <categoria>Repostería</categoria>
+    <stock>344</stock>
+    <proveedor>Pacari</proveedor>
+  </row>
+  <row>
+    <id_insumo>245</id_insumo>
+    <nombre>Esencia Vainilla (Galón)</nombre>
+    <precio_compra>12.56</precio_compra>
+    <categoria>Esencias</categoria>
+    <stock>477</stock>
+    <proveedor>DelyClar</proveedor>
+  </row>
+  <row>
+    <id_insumo>246</id_insumo>
+    <nombre>Quintal Harina Trigo</nombre>
+    <precio_compra>45.93</precio_compra>
+    <categoria>Materia Prima</categoria>
+    <stock>481</stock>
+    <proveedor>Moderna</proveedor>
+  </row>
+  <row>
+    <id_insumo>247</id_insumo>
+    <nombre>Quintal Harina Trigo</nombre>
+    <precio_compra>46.64</precio_compra>
+    <categoria>NaN</categoria>
+    <stock>180</stock>
+    <proveedor>Moderna</proveedor>
+  </row>
+  <row>
+    <id_insumo>248</id_insumo>
+    <nombre>Margarina Industrial</nombre>
+    <precio_compra>2.4</precio_compra>
+    <categoria>Grasas</categoria>
+    <stock>433</stock>
+    <proveedor>Danec</proveedor>
+  </row>
+  <row>
+    <id_insumo>249</id_insumo>
+    <nombre>Chocolate Cobertura (Kg)</nombre>
+    <precio_compra>8.21</precio_compra>
+    <categoria>Repostería</categoria>
+    <stock>145</stock>
+    <proveedor>DelyClar</proveedor>
+  </row>
+  <row>
+    <id_insumo>250</id_insumo>
+    <nombre>Quintal Harina Trigo</nombre>
+    <precio_compra>47.14</precio_compra>
+    <categoria>Materia Prima</categoria>
+    <stock>25</stock>
+    <proveedor>Santa Lucia</proveedor>
+  </row>
+  <row>
+    <id_insumo>251</id_insumo>
+    <nombre>Esencia Vainilla (Galón)</nombre>
+    <precio_compra>11.88</precio_compra>
+    <categoria>Esencias</categoria>
+    <stock>326</stock>
+    <proveedor>DelyClar</proveedor>
+  </row>
+  <row>
+    <id_insumo>252</id_insumo>
+    <nombre>Margarina Industrial</nombre>
+    <precio_compra>2.5</precio_compra>
+    <categoria>Grasas</categoria>
+    <stock>364</stock>
+    <proveedor>La Fabril</proveedor>
+  </row>
+  <row>
+    <id_insumo>253</id_insumo>
+    <nombre>Esencia Vainilla (Galón)</nombre>
+    <precio_compra>11.48</precio_compra>
+    <categoria>Esencias</categoria>
+    <stock>229</stock>
+    <proveedor>DelyClar</proveedor>
+  </row>
+  <row>
+    <id_insumo>254</id_insumo>
+    <nombre>Margarina Industrial</nombre>
+    <precio_compra>2.56</precio_compra>
+    <categoria>Grasas</categoria>
+    <stock>312</stock>
+    <proveedor>Danec</proveedor>
+  </row>
+  <row>
+    <id_insumo>255</id_insumo>
+    <nombre>Chocolate Cobertura (Kg)</nombre>
+    <precio_compra>8.29</precio_compra>
+    <categoria>N/A</categoria>
+    <stock>418</stock>
+    <proveedor>Pacari</proveedor>
+  </row>
+  <row>
+    <id_insumo>256</id_insumo>
+    <nombre>Esencia Vainilla (Galón)</nombre>
+    <precio_compra>11.54</precio_compra>
+    <categoria>Esencias</categoria>
+    <stock>247</stock>
+    <proveedor>DelyClar</proveedor>
+  </row>
+  <row>
+    <id_insumo>257</id_insumo>
+    <nombre>Chocolate Cobertura (Kg)</nombre>
+    <precio_compra>8.83</precio_compra>
+    <categoria>Repostería</categoria>
+    <stock>133</stock>
+    <proveedor>Pacari</proveedor>
+  </row>
+  <row>
+    <id_insumo>258</id_insumo>
+    <nombre>Margarina Industrial</nombre>
+    <precio_compra>2.44</precio_compra>
+    <categoria>texto_random</categoria>
+    <stock>222</stock>
+    <proveedor>Danec</proveedor>
+  </row>
+  <row>
+    <id_insumo>259</id_insumo>
+    <nombre>Margarina Industrial</nombre>
+    <precio_compra>2.44</precio_compra>
+    <categoria>Grasas</categoria>
+    <stock>398</stock>
+    <proveedor>Danec</proveedor>
+  </row>
+  <row>
+    <id_insumo>260</id_insumo>
+    <nombre>Levadura Fresca (500g)</nombre>
+    <precio_compra>2.18</precio_compra>
+    <categoria>NaN</categoria>
+    <stock>192</stock>
+    <proveedor>Levapan</proveedor>
+  </row>
+  <row>
+    <id_insumo>261</id_insumo>
+    <nombre>Levadura Fresca (500g)</nombre>
+    <precio_compra>2.17</precio_compra>
+    <categoria>Materia Prima</categoria>
+    <stock>228</stock>
+    <proveedor>Levapan</proveedor>
+  </row>
+  <row>
+    <id_insumo>262</id_insumo>
+    <nombre>Esencia Vainilla (Galón)</nombre>
+    <precio_compra>12.0</precio_compra>
+    <categoria>Esencias</categoria>
+    <stock>498</stock>
+    <proveedor>DelyClar</proveedor>
+  </row>
+  <row>
+    <id_insumo>263</id_insumo>
+    <nombre>Quintal Harina Trigo</nombre>
+    <precio_compra/>
+    <categoria>Materia Prima</categoria>
+    <stock>129</stock>
+    <proveedor>Santa Lucia</proveedor>
+  </row>
+  <row>
+    <id_insumo>264</id_insumo>
+    <nombre>Esencia Vainilla (Galón)</nombre>
+    <precio_compra>11.45</precio_compra>
+    <categoria>Esencias</categoria>
+    <stock>texto_random</stock>
+    <proveedor>DelyClar</proveedor>
+  </row>
+  <row>
+    <id_insumo>265</id_insumo>
+    <nombre>Levadura Fresca (500g)</nombre>
+    <precio_compra>2.15</precio_compra>
+    <categoria>Materia Prima</categoria>
+    <stock>408</stock>
+    <proveedor>Levapan</proveedor>
+  </row>
+  <row>
+    <id_insumo>266</id_insumo>
+    <nombre>Litro Leche Entera</nombre>
+    <precio_compra>0.93</precio_compra>
+    <categoria>NaN</categoria>
+    <stock>34</stock>
+    <proveedor>Vita</proveedor>
+  </row>
+  <row>
+    <id_insumo>267</id_insumo>
+    <nombre>Chocolate Cobertura (Kg)</nombre>
+    <precio_compra>8.44</precio_compra>
+    <categoria>Repostería</categoria>
+    <stock>208</stock>
+    <proveedor>DelyClar</proveedor>
+  </row>
+  <row>
+    <id_insumo>268</id_insumo>
+    <nombre>Cubeta Huevos (30u)</nombre>
+    <precio_compra>3.47</precio_compra>
+    <categoria>Materia Prima</categoria>
+    <stock>160</stock>
+    <proveedor>Avícola</proveedor>
+  </row>
+  <row>
+    <id_insumo>269</id_insumo>
+    <nombre>Margarina Industrial</nombre>
+    <precio_compra>2.4</precio_compra>
+    <categoria>Grasas</categoria>
+    <stock>389</stock>
+    <proveedor>La Fabril</proveedor>
+  </row>
+  <row>
+    <id_insumo>270</id_insumo>
+    <nombre>Levadura Fresca (500g)</nombre>
+    <precio_compra>2.27</precio_compra>
+    <categoria>Materia Prima</categoria>
+    <stock>75</stock>
+    <proveedor>Levapan</proveedor>
+  </row>
+  <row>
+    <id_insumo>271</id_insumo>
+    <nombre>Quintal Harina Trigo</nombre>
+    <precio_compra>44.7</precio_compra>
+    <categoria>Materia Prima</categoria>
+    <stock>319</stock>
+    <proveedor>Moderna</proveedor>
+  </row>
+  <row>
+    <id_insumo>272</id_insumo>
+    <nombre>Chocolate Cobertura (Kg)</nombre>
+    <precio_compra>8.55</precio_compra>
+    <categoria>Repostería</categoria>
+    <stock>334</stock>
+    <proveedor>error</proveedor>
+  </row>
+  <row>
+    <id_insumo>273</id_insumo>
+    <nombre>Litro Leche Entera</nombre>
+    <precio_compra>0.89</precio_compra>
+    <categoria>Lácteos</categoria>
+    <stock>225</stock>
+    <proveedor>Vita</proveedor>
+  </row>
+  <row>
+    <id_insumo>274</id_insumo>
+    <nombre>Litro Leche Entera</nombre>
+    <precio_compra>0.87</precio_compra>
+    <categoria>Lácteos</categoria>
+    <stock>138</stock>
+    <proveedor>Rey Leche</proveedor>
+  </row>
+  <row>
+    <id_insumo>275</id_insumo>
+    <nombre>Chocolate Cobertura (Kg)</nombre>
+    <precio_compra>8.56</precio_compra>
+    <categoria>Repostería</categoria>
+    <stock>316</stock>
+    <proveedor>DelyClar</proveedor>
+  </row>
+  <row>
+    <id_insumo>276</id_insumo>
+    <nombre>Levadura Fresca (500g)</nombre>
+    <precio_compra>2.29</precio_compra>
+    <categoria>Materia Prima</categoria>
+    <stock>218</stock>
+    <proveedor>Levapan</proveedor>
+  </row>
+  <row>
+    <id_insumo>277</id_insumo>
+    <nombre>Levadura Fresca (500g)</nombre>
+    <precio_compra>2.33</precio_compra>
+    <categoria>Materia Prima</categoria>
+    <stock>129</stock>
+    <proveedor>error</proveedor>
+  </row>
+  <row>
+    <id_insumo>278</id_insumo>
+    <nombre>Esencia Vainilla (Galón)</nombre>
+    <precio_compra>12.56</precio_compra>
+    <categoria>Esencias</categoria>
+    <stock>88</stock>
+    <proveedor>DelyClar</proveedor>
+  </row>
+  <row>
+    <id_insumo>279</id_insumo>
+    <nombre>Chocolate Cobertura (Kg)</nombre>
+    <precio_compra>8.86</precio_compra>
+    <categoria>Repostería</categoria>
+    <stock>203</stock>
+    <proveedor>DelyClar</proveedor>
+  </row>
+  <row>
+    <id_insumo>280</id_insumo>
+    <nombre>Esencia Vainilla (Galón)</nombre>
+    <precio_compra>11.76</precio_compra>
+    <categoria>Esencias</categoria>
+    <stock>496</stock>
+    <proveedor>DelyClar</proveedor>
+  </row>
+  <row>
+    <id_insumo>281</id_insumo>
+    <nombre>Levadura Fresca (500g)</nombre>
+    <precio_compra>2.32</precio_compra>
+    <categoria>Materia Prima</categoria>
+    <stock>313</stock>
+    <proveedor>Levapan</proveedor>
+  </row>
+  <row>
+    <id_insumo>282</id_insumo>
+    <nombre>Esencia Vainilla (Galón)</nombre>
+    <precio_compra>12.48</precio_compra>
+    <categoria>Esencias</categoria>
+    <stock>67</stock>
+    <proveedor>DelyClar</proveedor>
+  </row>
+  <row>
+    <id_insumo>283</id_insumo>
+    <nombre>Chocolate Cobertura (Kg)</nombre>
+    <precio_compra>8.72</precio_compra>
+    <categoria>Repostería</categoria>
+    <stock/>
+    <proveedor>DelyClar</proveedor>
+  </row>
+  <row>
+    <id_insumo>284</id_insumo>
+    <nombre>Chocolate Cobertura (Kg)</nombre>
+    <precio_compra>8.34</precio_compra>
+    <categoria>Repostería</categoria>
+    <stock>347</stock>
+    <proveedor>DelyClar</proveedor>
+  </row>
+  <row>
+    <id_insumo>285</id_insumo>
+    <nombre>Esencia Vainilla (Galón)</nombre>
+    <precio_compra>11.87</precio_compra>
+    <categoria>Esencias</categoria>
+    <stock>188</stock>
+    <proveedor>DelyClar</proveedor>
+  </row>
+  <row>
+    <id_insumo>286</id_insumo>
+    <nombre>Margarina Industrial</nombre>
+    <precio_compra>2.45</precio_compra>
+    <categoria>Grasas</categoria>
+    <stock>177</stock>
+    <proveedor>Danec</proveedor>
+  </row>
+  <row>
+    <id_insumo>287</id_insumo>
+    <nombre>Litro Leche Entera</nombre>
+    <precio_compra>error</precio_compra>
+    <categoria>Lácteos</categoria>
+    <stock>310</stock>
+    <proveedor>Rey Leche</proveedor>
+  </row>
+  <row>
+    <id_insumo>288</id_insumo>
+    <nombre>Esencia Vainilla (Galón)</nombre>
+    <precio_compra>12.3</precio_compra>
+    <categoria>Esencias</categoria>
+    <stock>NaN</stock>
+    <proveedor>DelyClar</proveedor>
+  </row>
+  <row>
+    <id_insumo>289</id_insumo>
+    <nombre>Chocolate Cobertura (Kg)</nombre>
+    <precio_compra>N/A</precio_compra>
+    <categoria>Repostería</categoria>
+    <stock>157</stock>
+    <proveedor>Pacari</proveedor>
+  </row>
+  <row>
+    <id_insumo>290</id_insumo>
+    <nombre>Margarina Industrial</nombre>
+    <precio_compra>2.55</precio_compra>
+    <categoria>Grasas</categoria>
+    <stock>439</stock>
+    <proveedor>La Fabril</proveedor>
+  </row>
+  <row>
+    <id_insumo>291</id_insumo>
+    <nombre>Levadura Fresca (500g)</nombre>
+    <precio_compra>texto_random</precio_compra>
+    <categoria>Materia Prima</categoria>
+    <stock>382</stock>
+    <proveedor>Levapan</proveedor>
+  </row>
+  <row>
+    <id_insumo>292</id_insumo>
+    <nombre>Levadura Fresca (500g)</nombre>
+    <precio_compra>2.24</precio_compra>
+    <categoria>Materia Prima</categoria>
+    <stock>400</stock>
+    <proveedor>N/A</proveedor>
+  </row>
+  <row>
+    <id_insumo>293</id_insumo>
+    <nombre>Margarina Industrial</nombre>
+    <precio_compra>2.44</precio_compra>
+    <categoria>Grasas</categoria>
+    <stock>176</stock>
+    <proveedor>Danec</proveedor>
+  </row>
+  <row>
+    <id_insumo>294</id_insumo>
+    <nombre>Quintal Harina Trigo</nombre>
+    <precio_compra>45.37</precio_compra>
+    <categoria>error</categoria>
+    <stock>458</stock>
+    <proveedor>Santa Lucia</proveedor>
+  </row>
+  <row>
+    <id_insumo>295</id_insumo>
+    <nombre>Chocolate Cobertura (Kg)</nombre>
+    <precio_compra>8.3</precio_compra>
+    <categoria>Repostería</categoria>
+    <stock>197</stock>
+    <proveedor>DelyClar</proveedor>
+  </row>
+  <row>
+    <id_insumo>296</id_insumo>
+    <nombre>Levadura Fresca (500g)</nombre>
+    <precio_compra>N/A</precio_compra>
+    <categoria>Materia Prima</categoria>
+    <stock>235</stock>
+    <proveedor>Levapan</proveedor>
+  </row>
+  <row>
+    <id_insumo>297</id_insumo>
+    <nombre>Levadura Fresca (500g)</nombre>
+    <precio_compra>2.29</precio_compra>
+    <categoria>Materia Prima</categoria>
+    <stock/>
+    <proveedor>Levapan</proveedor>
+  </row>
+  <row>
+    <id_insumo>298</id_insumo>
+    <nombre>Margarina Industrial</nombre>
+    <precio_compra>2.44</precio_compra>
+    <categoria>Grasas</categoria>
+    <stock>151</stock>
+    <proveedor>Danec</proveedor>
+  </row>
+  <row>
+    <id_insumo>299</id_insumo>
+    <nombre>Quintal Harina Trigo</nombre>
+    <precio_compra>43.6</precio_compra>
+    <categoria>Materia Prima</categoria>
+    <stock>375</stock>
+    <proveedor>Moderna</proveedor>
+  </row>
+</data>
