@@ -30,6 +30,7 @@ def obtener_datos_procesados():
         df5 = pd.read_sql(query, engine)
     except Exception as e:
         print(e)
+        df5 = pd.DataFrame()
 
     load_dotenv()
     uri = "mongodb+srv://maykolaicogg3_db_user:KrwVu5AGD1wtGizL@datos.wrq4154.mongodb.net/?appName=Datos"
@@ -50,6 +51,7 @@ def obtener_datos_procesados():
             df6 = pd.DataFrame(list(cursor))
     except Exception as e:
         print(e)
+        df6 = pd.DataFrame()
 
     df_unificado = pd.concat([df1, df2, df3, df4, df5, df6], ignore_index=True)
     df = df_unificado.copy()
