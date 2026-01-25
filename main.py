@@ -23,7 +23,7 @@ except FileNotFoundError as e:
 try:
     user = 'dbc'
     pasw = 'dbc'
-    host = '192.168.100.27'
+    host = '192.168.100.25'
     engine_string = f'teradatasql://{user}:{pasw}@{host}'
     engine = create_engine(engine_string)
     query = "SELECT id_insumo, nombre, precio_compra FROM Panaderia.Insumos"

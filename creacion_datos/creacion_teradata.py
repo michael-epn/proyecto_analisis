@@ -4,7 +4,7 @@ import sys
 
 sys.stdout.reconfigure(encoding='utf-8')
 
-host = '192.168.100.27'
+host = '192.168.100.25'
 user = 'dbc'
 password = 'dbc'
 
